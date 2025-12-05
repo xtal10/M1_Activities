@@ -1,4 +1,4 @@
-package M2_Activity02;
+package Activity1.M2_Activities.Seatwork2;
 
 public class WhiteBoards {
 	
