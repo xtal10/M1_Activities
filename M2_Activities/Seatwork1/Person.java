@@ -1,5 +1,4 @@
-package Sample_OOP;
-
+package Activity1.M2_Activities.Seatwork1;
 public class Person {
 	
 	String name="";
