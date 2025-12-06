@@ -1,4 +1,4 @@
-package Activity1.M2_Activities.Seatwork1;
+package Activity.M2_Activities.Seatwork1;
 import java.util.Scanner;
 public class Seatwork1 {
 
