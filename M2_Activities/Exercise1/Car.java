@@ -1,4 +1,4 @@
-package Activity1.M2_Activities.Exercise1;
+package Activity.M2_Activities.Exercise1;
 
 import java.nio.file.FileSystemNotFoundException;
 
@@ -68,7 +68,7 @@ public class Car {
 	
 
 	
-	
+	//Display info method
 	public void displayInfo() {
 		System.out.println("==================");
 		System.out.println("Brand:"+getBrand());
