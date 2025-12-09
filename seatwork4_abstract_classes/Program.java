@@ -1,4 +1,4 @@
-
+package seatwork4_abstract_classes;
 
 public abstract class Program {
 	
@@ -15,11 +15,29 @@ public abstract class Program {
 	
 	abstract void run();
 	abstract void stop();
+	
+	
+	//Getters and Setters
+	
+	public String getName() {
+		return name;
+	}
+	
+	public void setName (String name) {
+		
+		this.name=name;
+	}
+	
+	public boolean getIsRunning() {
+		
+		return isRunning;
+	}
+	
+	public void setIsRunning(boolean isRunning) {
+		this.isRunning=isRunning;
+	}
    
-   <fill>;
-   <fill>;
-   <fill>;
-   <fill>;
+ 
 	
 	
 	

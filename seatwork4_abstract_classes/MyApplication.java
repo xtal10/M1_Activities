@@ -1,4 +1,4 @@
-
+package seatwork4_abstract_classes;
 
 public class MyApplication {
 
